@@ -1,6 +1,21 @@
 // This is a simple java program
 // Filename: HelloWorld.java
 
+pubic class HelloWorld {
+
+   public static void main (Strings args[]) {
+      System.out.println ("Hello World");
+   }
+
+
+   //from b1 branch
+   public void m1() {
+       System.out.println ("from method-1);
+   }
+
+}
+
+
 class HelloWorld {
    public static void main (Strings args[])
    {
@@ -8,3 +23,4 @@ class HelloWorld {
    }
 
 }
+
