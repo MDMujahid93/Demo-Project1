@@ -1,5 +1,0 @@
-Hello World
-Hello World
-1
-1
-[A[A[C 2 3 4
